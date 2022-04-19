@@ -7,7 +7,7 @@
 ```ruby
 #This is a file for storing library data
 shelves = 10
-books_available = true #this is a library after all 
+books_available = true #this is a library after all
 book = "1984" #by George Orwell
 library = "Localtown Library"
 late_fee = .50 #dollars
@@ -19,5 +19,6 @@ book_titles = ["The DaVinci Code",
 "Harry Potter and the Goblet of Fire",
 "Rich Dad Poor Dad"]
 
-
 ```
+## Workflow
+* Jared drove. Ethan and Andre navigated. We did not get stuck or have to look anything up or disagree. 
